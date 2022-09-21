@@ -14,15 +14,15 @@ function Banner() {
             interval={5000}
         >
             <div>
-                <img loading="lazy" src="https://i.im.ge/2022/09/19/1dKNrP.Mision-Vision-Ambicion-.png" alt=""/>
+                <img loading="lazy" src="https://i.im.ge/2022/09/19/1sWEUh.Mision-Vision-Ambicion-.png" alt=""/>
             </div>
             
             <div>
-                <img loading="lazy" src="https://i.im.ge/2022/09/19/1dJnep.vrime-video.png" alt=""/>
+                <img loading="lazy" src="https://i.im.ge/2022/09/19/1sW34Y.vrime-video-3.png" alt=""/>
             </div>
 
             <div>
-                <img loading="lazy" src="https://i.im.ge/2022/09/19/1dneTF.3-meses-gratis.png" alt=""/>
+                <img loading="lazy" src="https://i.im.ge/2022/09/19/1sWCT8.3-meses-gratis-2.png" alt=""/>
             </div>
             
         </Carousel>

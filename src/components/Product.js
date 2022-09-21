@@ -26,7 +26,7 @@ function Product({id, title, price, description, category, image}) {
             {Array(rating)
                 .fill()
                 .map((_,i) => (
-                    <StarIcon className="h-5 text-vrip-500"/>
+                    <StarIcon className="h-5 text-vrip-400"/>
                 )
             )}
         </div>
@@ -38,9 +38,9 @@ function Product({id, title, price, description, category, image}) {
         </div>
 
         {hasPrime && (
-            <div className="flex items-center space-x-2 -mt-5">
-                <img className="w-12" src="https://i.im.ge/2022/09/19/1dnhMK.1.png" alt=""/>
-                <p className="text-xs text-gray-500 mb-2">Entrega GRATIS</p>
+            <div className="flex items-center space-x-2 -mt-5 mb-2">
+                <img className="w-12" src="https://i.im.ge/2022/09/19/1sWatT.1.png" alt=""/>
+                <p className="text-xs text-gray-500">Entrega GRATIS</p>
             </div>
         )}
         <button className="mt-auto button">Añadir a la canasta</button>
