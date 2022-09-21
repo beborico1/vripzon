@@ -21,7 +21,8 @@ function Header() {
             <div className="flex items-center flex-grow sm:flex-grow-0">
                 <Image
                     onClick={()=>router.push("/")}
-                    src="https://drive.google.com/uc?export=view&id=1CWpT7LEN02yLTjM_SEiP_UmDSdsMUlJN"
+                    src="https://www.fundacion-affinity.org/sites/default/files/los-10-sonidos-principales-del-perro.jpg"
+                    //"https://drive.google.com/uc?export=view&id=1CWpT7LEN02yLTjM_SEiP_UmDSdsMUlJN"
                     width={150}
                     height={40}
                     objectFit="contain"
