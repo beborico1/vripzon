@@ -4,7 +4,8 @@ module.exports = {
             "fakestoreapi.com",
             "drive.google.com",
             "links.papareact.com",
-            "i.im.ge"
+            "i.im.ge",
+            "fundacion-affinity.org"
         ]
     },
     env: {
